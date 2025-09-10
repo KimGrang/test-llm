@@ -1,4 +1,3 @@
-import React from 'react';
 import LLMChat from './components/LLMChat';
 import './App.css';
 
